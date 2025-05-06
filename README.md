@@ -1,5 +1,5 @@
 Hi there 👋
-- 🔭 I’m currently working on my data analytics portofilio.
+- 🔭 I’m currently working on my data analytics portfolio.
 - 🌱 I’m currently learning python.
 - 😄 Pronouns: she/her
 
